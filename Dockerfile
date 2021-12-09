@@ -1,3 +1,5 @@
+# Author: Rohit Rawat
+
 ARG OWNER=jupyter
 ARG BASE_CONTAINER=$OWNER/minimal-notebook
 FROM $BASE_CONTAINER
